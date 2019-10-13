@@ -2,8 +2,8 @@
 One of the project for Udacity (Google Challenge Scholarship: Android Basics)
 
 ## Description:
-This is a Inventory application created for Udacity (Google Challenge Scholarship: Android Basics).
-Application is allowing to store and maintain any prodact toogether with details on mobile with android using SQLite database.
+This is an Inventory application created for Udacity (Google Challenge Scholarship: Android Basics).
+Application is allowing to store and maintain any product together with details on mobile with android using SQLite database.
 
 ## Screenshots:
 ![screenshot_1](https://user-images.githubusercontent.com/34196498/50044657-1ab27a00-0087-11e9-9387-05812b617a7a.png)
